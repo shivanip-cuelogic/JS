@@ -1,0 +1,19 @@
+.signinmain{
+background-image:url("assests/imagesforJS/images.jpeg");
+width: 300px;
+height: 500px;
+background-size:500px 500px;
+margin: 0 auto;
+text-align: center;
+border: 1px solid blue;
+background-color: aqua;
+
+}
+.class2{
+padding-top: 150px;
+
+}
+
+h2{
+    color:white;
+}
